@@ -5,7 +5,7 @@
 该项目主要用作于敏感词检测,并将检测到的敏感词屏蔽为*号.
 
 <h1 style="color:blue">
-    2.	Useage
+    2.	Usage
 </h1>
 
 ```shell
