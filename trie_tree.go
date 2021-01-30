@@ -1,8 +1,9 @@
+package sensitive
+
 /*
 	author: yuansudong
 	date: 2019-08-12
 */
-package sensitive
 
 // _TrieTree 短语组成的Trie树.
 type _TrieTree struct {
